@@ -166,6 +166,7 @@ public class Hand : MonoBehaviour, IDraggable
         while (tween.active)
             yield return null;
 
+        DOTween.Kill(_rectTransform);
         _animator.enabled = true;
 
         while (_animator.GetCurrentAnimatorStateInfo(0).shortNameHash == animhash)
