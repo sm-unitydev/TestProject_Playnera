@@ -12,3 +12,5 @@ UseCreamTask, которые работают посредством корутин.
 Меньшая часть в класах инструментов Brush, Cream, Lipstick и MakeupTool.
 Функционал переключения(фейда) элементов макияжа на самом персонаже находится
 в классах Character и CharacterMakeupItem.
+
+[Демо игры](https://drive.google.com/file/d/1i39X_U4zUaxx8z2a2LHBFaf_d4WiUEbO/view?usp=sharing)
